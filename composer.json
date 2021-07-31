@@ -18,7 +18,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Firevel\\Firequent\\": "src/"
+            "Firevel\\Firequent\\": "./src"
         }
     },
     "extra": {
