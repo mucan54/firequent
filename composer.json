@@ -1,5 +1,5 @@
 {
-    "name": "firevel/firequent",
+    "name": "mucan54/firequent",
     "description": "Limited implementation of Eloquent based on Firestore.",
     "keywords": ["laravel", "eloquent", "firestore", "app engine", "google cloud", "firevel", "firequent", "serverless"],
     "type": "library",
